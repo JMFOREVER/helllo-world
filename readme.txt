@@ -8,3 +8,4 @@ Git is free software distributed under the GPL
 //zhangjj append one line
 
 Git tracks changes
+Git tracks of files
