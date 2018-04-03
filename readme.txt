@@ -9,3 +9,4 @@ Git is free software distributed under the GPL
 
 Git tracks changes
 Git tracks of files
+Git
